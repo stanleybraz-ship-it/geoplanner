@@ -23,3 +23,9 @@ em consonância com políticas de inovação e formação docente.
 
 ## Vínculo acadêmico
 Projeto de pesquisa em Tecnologias Educacionais aplicadas ao Ensino de Geografia.
+
+## Instituição
+Projeto desenvolvido no âmbito da Universidade Estadual do Ceará (UECE).
+
+## Coordenação
+Stanley Braz de Oliveira – Professor de Geografia.
